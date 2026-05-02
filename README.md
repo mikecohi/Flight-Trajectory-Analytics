@@ -1,6 +1,6 @@
 # Flight Trajectory Analysis and Prediction
 
-Portfolio version of a final project for a Data Analysis and Visualization course. The project analyzes aircraft state-vector data around Hartsfield-Jackson Atlanta International Airport (ATL), identifies abnormal trajectories, and compares sequence models for short-term flight trajectory prediction.
+The project analyzes aircraft state-vector data around Hartsfield-Jackson Atlanta International Airport (ATL), identifies abnormal trajectories, and compares sequence models for short-term flight trajectory prediction.
 
 ## Project Goal
 
