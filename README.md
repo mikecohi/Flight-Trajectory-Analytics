@@ -101,6 +101,10 @@ On this Windows machine, the project also includes a convenience launcher:
 ```powershell
 .\run_dashboard.ps1
 ```
+Demo dashboard:
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/240b5dcb-860c-487e-99f6-396d4cad637e" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/81dd6915-05a4-4253-80f7-b1234213d6b5" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/1b1de8aa-fc2b-4ba8-a24b-edb4fdcf68aa" />
 
 ## Notebook Summary
 
