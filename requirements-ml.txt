@@ -1,0 +1,5 @@
+# Extra dependencies for rerunning the original deep learning notebooks.
+-r requirements.txt
+tensorflow>=2.16.0
+keras>=3.0.0
+traffic>=2.12.0

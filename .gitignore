@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local analytical databases and generated reports
+*.duckdb
+*.duckdb.wal
+reports/*.md
+reports/*.csv
+reports/*.html
+
+# Large local datasets should stay outside Git history unless sampled.
+dataset/*.csv
+!dataset/README.md
